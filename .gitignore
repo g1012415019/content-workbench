@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+# This is a documentation-only repository. Keep source and local data out.
+src/
+server/
+web/
+data/
+outputs/
+node_modules/
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
