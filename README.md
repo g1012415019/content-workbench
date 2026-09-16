@@ -2,7 +2,7 @@
 
 > 面向中文内容创作者的本地 AI 创作工作台，把选题、写作、配图、排版、资产管理和发布准备放进一个桌面应用。
 
-![文到 AI 工作台](assets/workbench-light.jpg)
+![文到 AI 桌面端](assets/desktop-resource-center.png)
 
 ## 产品简介
 
@@ -39,21 +39,11 @@ flowchart LR
 
 ## 界面预览
 
-### 聚焦创作的一屏式工作台
+### 桌面端资源中心
 
-![浅色工作台](assets/workbench-light.jpg)
+最新版桌面端采用紧凑的深色工作台布局，可在应用内浏览和安装字体、纸张背景、纸面光效与装饰素材。
 
-### 深色模式与 AI 创作面板
-
-![深色工作台](assets/workbench-dark.jpg)
-
-### AI 智能排版与插图预览
-
-![AI 排版预览](assets/ai-layout.png)
-
-### 提示词、字体与素材资源中心
-
-![资源中心](assets/resource-market.png)
+![最新版文到 AI 桌面端资源中心](assets/desktop-resource-center.png)
 
 ## 产品特点
 
