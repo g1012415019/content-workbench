@@ -1,6 +1,6 @@
 # 文到 AI（Content Workbench）
 
-[官方网站](https://www.asfop.top/) · [版本发布](https://github.com/wendaoai/wendao-content-workbench/releases) · [问题反馈](https://github.com/wendaoai/wendao-content-workbench/issues)
+[官方网站](https://www.asfop.top/) · [GitHub](https://github.com/wendaoai/wendao-content-workbench) · [Gitee](https://gitee.com/wendaoai/wendao-content-workbench) · [版本发布](https://github.com/wendaoai/wendao-content-workbench/releases)
 
 ## 免费的本地 AI 内容创作工作台
 
