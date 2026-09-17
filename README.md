@@ -1,5 +1,7 @@
 # 文到 AI（Content Workbench）
 
+[官方网站](https://www.asfop.top/) · [版本发布](https://github.com/wendaoai/wendao-content-workbench/releases) · [问题反馈](https://github.com/wendaoai/wendao-content-workbench/issues)
+
 ## 免费的本地 AI 内容创作工作台
 
 **不收会员费，不收订阅费，不按功能分级。**
