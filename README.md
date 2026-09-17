@@ -63,11 +63,11 @@ flowchart LR
 
 ## 获取与体验
 
-桌面安装包和新版本将在本仓库的 [Releases](https://github.com/g1012415019/content-workbench/releases) 发布。当前尚未发布公开安装包，可以先关注仓库获取后续更新。
+桌面安装包和新版本将在本仓库的 [Releases](https://github.com/wendaoai/wendao-content-workbench/releases) 发布。当前尚未发布公开安装包，可以先关注仓库获取后续更新。
 
 ## 反馈
 
-欢迎通过 [Issues](https://github.com/g1012415019/content-workbench/issues) 提交建议和问题。请勿在 Issue 中发布 API Key、账号凭据、私人内容或其他敏感信息。
+欢迎通过 [Issues](https://github.com/wendaoai/wendao-content-workbench/issues) 提交建议和问题。请勿在 Issue 中发布 API Key、账号凭据、私人内容或其他敏感信息。
 
 ---
 
